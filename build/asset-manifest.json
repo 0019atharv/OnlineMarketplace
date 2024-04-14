@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/campus-marketplace/static/css/main.1dfa6242.css",
+    "main.js": "/campus-marketplace/static/js/main.72cc1ce8.js",
+    "index.html": "/campus-marketplace/index.html",
+    "main.1dfa6242.css.map": "/campus-marketplace/static/css/main.1dfa6242.css.map",
+    "main.72cc1ce8.js.map": "/campus-marketplace/static/js/main.72cc1ce8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dfa6242.css",
+    "static/js/main.72cc1ce8.js"
+  ]
+}
